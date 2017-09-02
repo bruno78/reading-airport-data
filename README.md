@@ -1,6 +1,6 @@
 # Reading Airport Data
 
-<div style="text-align:center"><img src="https://cdn.rawgit.com/bruno78/reading-airport-data/89133253/data/airportmap.png" alt="Map displaying airports" /></div>
+<p align="center"><img src="https://cdn.rawgit.com/bruno78/reading-airport-data/89133253/data/airportmap.png" alt="Map displaying airports" /></p>
 
 This program reads airports data and displays a map showing all the airports in the world. This program uses:
 
