@@ -11,4 +11,6 @@ This program reads airports data and displays a map showing the most busiest air
 
 The user can hover with the mouse over the airport and it will display its name and country where is located.
 
-On the airport with routes data available and above 100, uses can click and the routes will be displayed. 
+On the airport with routes data available, and above 100, users can click and the routes will be displayed.
+
+Airport data files can be found at [openflights.org](https://openflights.org/data.html).
